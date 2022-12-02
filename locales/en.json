@@ -1,0 +1,36 @@
+{
+  "headlines": {
+    "churchtoolsNotifications": "CT Notification Center",
+    "emoji": "🔔",
+    "reports": "Reports",
+    "rules": "Rules",
+    "home": "Home"
+  },
+  "labels": {
+    "email": "Email address",
+    "name": "Name",
+    "password": "Password",
+    "done": "Done",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "save": "Save",
+    "delete": "Delete",
+    "signIn": "Sign in",
+    "search": "Search",
+    "newRule": "New Rule",
+    "addRule": "Add rule",
+    "conditions": "Conditions",
+    "field": "Field",
+    "operator": "Operator",
+    "value": "Value",
+    "addCondition": "Add Condition"
+  },
+  "mail": {
+    "salutation": "Hello {recipient}",
+    "footer": "Further information at",
+    "notification": {
+      "heading": "🔔 Notification",
+      "content": "Here are your notifications:"
+    }
+  }
+}
